@@ -1,0 +1,15 @@
+{
+    "name": "kafka",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start:topic": "node topic.js",
+        "kafka:producer": "node producer.js",
+        "kafka:consumer": "node consumer.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
