@@ -32,6 +32,10 @@ Note: you must run 2 server on different terminal because can not edit when the 
 
 Install all the file of kafka example.
 
+This code use a library of npm that kafkajs, if you do not install yet, install it by:
+
+```npm install kafkajs```
+
 Active a Zookeeper server.
 
 Active Kafka server.
