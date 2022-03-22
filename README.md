@@ -6,7 +6,7 @@ We run Kafka and Zookeeper server on docker. If not installed docker yet, visit 
 
 To start a Zookeeper, use this command with docker:
 
-docker run --name zookeeper -p 2181:2181 zookeeper
+```docker run --name zookeeper -p 2181:2181 zookeeper```
 
 If Zookeeper already run before, run this instead:
 
